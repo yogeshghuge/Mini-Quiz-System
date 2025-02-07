@@ -1,0 +1,25 @@
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\bin\Debug\MiniSystem.exe.config
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\bin\Debug\MiniSystem.exe
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\bin\Debug\MiniSystem.pdb
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\bin\Debug\MiniSystem.xml
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.Form1.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.Form2.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.Resources.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.vbproj.GenerateResource.Cache
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.exe
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.xml
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.pdb
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.SIGN_IN.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.Home.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.quest2.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.quest6.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.quest3.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.quest4.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.quest7.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.help.resources
+C:\Users\Acer-User\Desktop\VB PROJECTS\MiniSystem\MiniSystem\obj\Debug\MiniSystem.quest8.resources
+D:\MiniQuizSystem(Angeles,Gonzales)BSIT1-1\MiniSystem\MiniSystem\bin\Debug\MiniSystem.exe.config
+D:\MiniQuizSystem(Angeles,Gonzales)BSIT1-1\MiniSystem\MiniSystem\obj\Debug\MiniSystem.exe
+D:\MiniQuizSystem(Angeles,Gonzales)BSIT1-1\MiniSystem\MiniSystem\obj\Debug\MiniSystem.xml
+D:\MiniQuizSystem(Angeles,Gonzales)BSIT1-1\MiniSystem\MiniSystem\obj\Debug\MiniSystem.pdb
